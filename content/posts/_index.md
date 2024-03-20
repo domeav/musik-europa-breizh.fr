@@ -1,0 +1,4 @@
+---
+params:
+  hidden: true
+---

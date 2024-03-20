@@ -1,0 +1,30 @@
+baseURL = 'https://test.musik-europa-breizh.fr'
+languageCode = 'fr-fr'
+title = 'Musik Europa Breizh'
+theme = ['beautifulhugo']
+DefaultContentLanguage = "fr"
+SectionPagesMenu = "main"
+Paginate = 10
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+     [markup.goldmark.renderer]
+       unsafe = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+  
+## beatifulhugo
+[Params]
+  hideAuthor = true
+  logo = "images/avatar-logo.png"
+  favicon = "images/avatar-logo.png"
+  mainSections = ["posts"]
+
+[[Params.bigimg]]
+  src = "/images/photos/02.jpg"
+
