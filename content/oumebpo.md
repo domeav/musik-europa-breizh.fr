@@ -22,7 +22,21 @@ et diffuser des musiques inattendues, expérimentales, d'avant-garde,
 de niche, improbables, éphémères voire jetables, en situation, ou le
 contraire.
 
-Des musiques baroques, en somme, CQFD.
+Des musiques baroques, en somme, CQFD, mais un baroque confinant au barré.
+
+## l'Atelier d'Improvisation Electronique 
+ 
+[L'Atelier d'Improvisation
+Électronique](https://aie.musik-europa-breizh.fr) (AÏE) de l'ouMEBpo
+propose des sessions d'improvisation libre - ou improvisation
+collective, ou musique générationnelle... les étiquettes ne manquent
+pas.
+
+L'Atelier se rassemble deux fois par mois au Pôle Jeunesse/Baratin de
+Quéven, et intervient régulièrement dans tout le Pays de Lorient.
+
+AIE est un vivier de musiciens disponibles pour les projets et les
+rencontres les plus improbables : n'hésitez pas à nous solliciter !
 
 ## SoundSail
 
@@ -36,19 +50,34 @@ Notre objectif est de faire découvrir ces métiers, leur environnement
 visuel et sonore, leur grande diversité, leurs richesse mais aussi
 leurs difficultés et leurs enjeux environnementaux.
 
-
-## l'Atelier d'Improvisation Electronique 
- 
-[L'Atelier d'Improvisation Électronique](https://aie.musik-europa-breizh.fr) (AÏE) de l'ouMEBpo propose des
-sessions d'improvisation libre - ou improvisation collective, ou
-musique générationnelle... les étiquettes ne manquent pas.
-
 ## La Rallonge
 
 [La Rallonge](https://larallonge.franceimpro.fr) est un _cadavre
 exquis_ tissé de vidéos et de musiques improvisées, démarré à Toulouse
 en 2014 et voyageant dans toute l'Europe. L'ouMEBpo est membre du
-réseau disposant des droits de diffusion du projet.
+réseau disposant des droits de diffusion du projet, et l'Atelier
+d'Improvisation Électronique a enregistré sa première contribution en
+2024.
 
 La Rallonge peut prendre des formes multiples : installations,
 projection/concert...
+
+## Zique d'étape
+
+L'ouMEBpo cherche à faire exister Lorient sur une carte des musiques
+aventureuses, et souhaite accompagner les artistes disposant de
+propositions fortes mais ne rentrant pas bien dans les cases pour
+ajouter une étape à leur tournée.
+
+Antoine Viard et son projet
+[Tumulus](http://www.collectifcoax.com/artist/tumulus) sont passés
+nous voir 2023 par l'intermédiaire de [Carton
+Records](https://www.cartoncartoncarton.com/).
+
+## Nuit de l'Impro
+
+La Nuit de l'Impro est un spectacle qui rassemble des improvisateurs
+de plusieurs disciplines : acteurs, danseurs et musiciens. La première
+édition, portée par [Ti
+Barouf](https://www.facebook.com/p/Ti-Barouf-100087789583119/), a eu
+lieu le 30 septembre 2023.
