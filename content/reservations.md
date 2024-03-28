@@ -15,12 +15,34 @@ informations dans votre boîte mail !
 
 ## Billetterie
 
+Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos billets pour toute la saison !
+
 <center>
 
 ![](/images/concerts/2024-trio-nuit-dete.png)<br/>
-[30/05, salle de l'Artimon, Locmiquelic](/reservations/2024-05-30)<br/>
+[30/05, salle de l'Artimon, Locmiquélic](/reservations/2024-05-30)<br/>
 [31/05, chapelle de Lomener](/reservations/2024-05-31)<br/>
 [01/06, église de Clohars-Fouesnant](/reservations/2024-06-01)
+
+### Sacqueboutiers au beure salé
+[10/07, Fouesnant, festival Chambre avec Vue](/reservations/2024-07-10)<br/>
+[11/07, chapelle de Lomener](/reservations/2024-07-11)<br/>
+[12/07, salle de l'Artimon, Locmiquélic](/reservations/2024-07-12)<br/>
+
+### Giardino Musicale
+[13/08, chapelle de Lomener](/reservations/2024-08-13)<br/>
+[14/08, salle de l'Artimon, Locmiquélic](/reservations/2024-08-14)<br/>
+[15/08, église de Clohars-Fouesnant](/reservations/2024-08-15)<br/>
+
+### Miroir, mon beau miroir
+[13/09, église de Clohars-Fouesnant](/reservations/2024-09-13)<br/>
+[14/09, salle de l'Artimon, Locmiquélic](/reservations/2024-09-14)<br/>
+[15/09, chapelle de Lomener](/reservations/2024-09-15)<br/>
+
+### Badinage
+[18/10, chapelle de Lomener](/reservations/2024-10-18)<br/>
+[19/10, salle de l'Artimon, Locmiquélic](/reservations/2024-10-19)<br/>
+[20/10, église de Clohars-Fouesnant](/reservations/2024-10-20)<br/>
 
 </center>
 
@@ -28,33 +50,35 @@ informations dans votre boîte mail !
 
 <center>
 
+Les concerts passés sont dans l'ordre antichronologique, du plus récent au plus ancien.
+
 ### 2023
 
 ![](/images/concerts/baroque-trombone.jpg)<br/>
-21/09, salle de l'Artimon, Locmiquelic<br/>
+21/09, salle de l'Artimon, Locmiquélic<br/>
 29/09, chapelle de Lomener<br/>
 30/09, église de Clohars-Fouesnant
 
 ![](/images/concerts/la-grande-traversee.jpg)<br/>
 15/08, chapelle de Lomener<br/>
 16/08, église de Clohars-Fouesnant<br/>
-17/08, salle de l'Artimon, Locmiquelic
+17/08, salle de l'Artimon, Locmiquélic
 
 ![](/images/concerts/france-angleterre.jpg)<br/>
 03/08 église de Clohars Fouesnant
   
 ![](/images/concerts/hautbois-dmon-coeur.jpg)<br/>
-20/07, salle de l’Artimon à Locmiquelic<br/>
+20/07, salle de l’Artimon à Locmiquélic<br/>
 21/07, chapelle de Lomener<br/>
 22/07 église de Clohars Fouesnant
 
 ![](/images/concerts/regale-clavecin.jpg)<br/>
-29/06, salle de l’Artimon à Locmiquelic<br/>
+29/06, salle de l’Artimon à Locmiquélic<br/>
 30/06, chapelle de Lomener<br/>
 02/07 église de Clohars Fouesnant
 
 ![](/images/concerts/labyrinthe2.jpg)<br/>
-12/05, salle de l’Artimon à Locmiquelic<br/>
+12/05, salle de l’Artimon à Locmiquélic<br/>
 13/05, chapelle de Lomener<br/>
 14/05 église de Clohars Fouesnant
 
@@ -66,7 +90,7 @@ informations dans votre boîte mail !
 
 ![](/images/concerts/anniversaires.jpg)<br/>
 24/08 chapelle St Anne, Fouesnant (Chambre avec Vue)<br/>
-09/11 salle de l’Artimon, Locmiquelic<br/>
+09/11 salle de l’Artimon, Locmiquélic<br/>
 11/11 chapelle de Lomener, Ploemeur
 
 ![](/images/concerts/serpent.jpg)<br/>
@@ -75,7 +99,7 @@ informations dans votre boîte mail !
 03/09, chapelle sainte Anne Fouesnant
 
 ![](/images/concerts/pascal.jpg)<br/>
-13/04, salle de l’Artimon à Locmiquelic<br/>
+13/04, salle de l’Artimon à Locmiquélic<br/>
 18/04, chapelle de Lomener<br/>
 21/07 église de Clohars Fouesnant
 
