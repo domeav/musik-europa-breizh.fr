@@ -89,3 +89,10 @@ citrons](https://3citrons.art/) pour une [rencontre ludique, créative
 et
 festive](https://www.manifestampe.org/autre/fete-de-lestampe-battle-de-gravure-ludique-et-creative)
 entre artistes, en public et en musique !
+
+## Confisquée
+
+L'ouMEBpo et [BAAM](https://baam-lorient.co/) se sont associés pour
+participer aux 25èmes rencontres photographiques de Lorient avec une
+[exposition photographique et
+sonore](https://oumebpo.bandcamp.com/album/confisqu-e).
