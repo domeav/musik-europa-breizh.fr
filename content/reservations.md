@@ -24,7 +24,7 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 [31/05, chapelle de Lomener](/reservations/2024-05-31)<br/>
 [01/06, église de Clohars-Fouesnant](/reservations/2024-06-01)
 
-### Sacqueboutiers au beure salé
+### Sacqueboutiers au beurre salé
 [10/07, Fouesnant, festival Chambre avec Vue](/reservations/2024-07-10)<br/>
 [11/07, chapelle de Lomener](/reservations/2024-07-11)<br/>
 [12/07, salle de l'Artimon, Locmiquélic](/reservations/2024-07-12)<br/>
