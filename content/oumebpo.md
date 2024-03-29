@@ -76,8 +76,16 @@ Records](https://www.cartoncartoncarton.com/).
 
 ## Nuit de l'Impro
 
-La Nuit de l'Impro est un spectacle qui rassemble des improvisateurs
+La [Nuit de l'Impro](https://www.ouest-france.fr/bretagne/lorient-56100/lorient-une-premiere-nuit-de-limpro-samedi-a-lembarcadere-e19d71f4-5c64-11ee-b3bf-85356afed175) est un spectacle qui rassemble des improvisateurs
 de plusieurs disciplines : acteurs, danseurs et musiciens. La première
 édition, portée par [Ti
 Barouf](https://www.facebook.com/p/Ti-Barouf-100087789583119/), a eu
 lieu le 30 septembre 2023.
+
+## Fête de l'estampe : battle de gravure
+
+L'Atelier d'Improvisation Electronique s'associe à l'[Atelier des 3
+citrons](https://3citrons.art/) pour une [rencontre ludique, créative
+et
+festive](https://www.manifestampe.org/autre/fete-de-lestampe-battle-de-gravure-ludique-et-creative)
+entre artistes, en public et en musique !

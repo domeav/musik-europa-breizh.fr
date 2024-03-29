@@ -1,4 +1,4 @@
-baseURL = 'https://test.musik-europa-breizh.fr'
+baseURL = 'https://www.musik-europa-breizh.fr'
 languageCode = 'fr-fr'
 title = 'Musik Europa Breizh'
 theme = ['beautifulhugo']
