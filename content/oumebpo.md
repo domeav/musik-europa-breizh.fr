@@ -25,7 +25,9 @@ contraire.
 Des musiques baroques, en somme, CQFD, mais un baroque confinant au barré.
 
 ## l'Atelier d'Improvisation Electronique 
- 
+
+![AIE](/images/aie.png)
+
 [L'Atelier d'Improvisation
 Électronique](https://aie.musik-europa-breizh.fr) (AÏE) de l'ouMEBpo
 propose des sessions d'improvisation libre - ou improvisation
@@ -38,7 +40,26 @@ Quéven, et intervient régulièrement dans tout le Pays de Lorient.
 AIE est un vivier de musiciens disponibles pour les projets et les
 rencontres les plus improbables : n'hésitez pas à nous solliciter !
 
-## SoundSail
+## MEL / Balades sonores / SoundSail
+
+![mel](/images/mel.png)
+
+MEL signifie **Musique Environnementale de Lorient**. MEL représente
+l'environnement sonore de Lorient vu par des artistes, des habitants,
+des travailleurs, toute personne qui tend l’oreille, le micro et qui
+s’intéresse à cet espace sonore. Personne ne possède MEL mais des
+acteurs, comme l’association Musik Europa Breizh, font des projets
+autour.
+
+MEL organise des **Balades Sonores** dans le pays de Lorient. Une
+Balade Sonore est une déambulation lente sur un parcours, dirigée par
+une personne qui aura choisi un trajet intéressant d’un point de vue
+(ou d’ouïe) sonore. Le but est de redécouvrir des sons du quotidien ou
+(et) d’en découvrir de nouveaux dans un contexte d’écoute
+partagée. Peut être même d’entendre ces sons comme de la musique ! Le
+mieux, pour comprendre, c’est d’essayer :-)
+
+Les balades sont organisées par Raphaël Bruni d’Achon, musicologue.
 
 [SoundSail](https://soundsail.cc) est un projet actuellement en incubation. Il s'agit d'une
 exposition musicale modulaire comprenant des compositions
