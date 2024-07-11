@@ -61,6 +61,8 @@ mieux, pour comprendre, c’est d’essayer :-)
 
 Les balades sont organisées par Raphaël Bruni d’Achon, musicologue.
 
+Tout le programme des balades sonores 2024 est disponible [ici](/files/MEL_2024.pdf).
+
 [SoundSail](https://soundsail.cc) est un projet actuellement en incubation. Il s'agit d'une
 exposition musicale modulaire comprenant des compositions
 acousmatiques ou électroacoustiques mises en espace de façon
