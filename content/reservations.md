@@ -21,13 +21,9 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 
 <center>
 
-### Sacqueboutiers au beurre salé
-![](/images/concerts/2024-sacqueboutiers.png)<br/>
-[10/07, Fouesnant, festival Chambre avec Vue](/reservations/2024-07-10)<br/>
-[11/07, chapelle de Lomener](/reservations/2024-07-11)<br/>
-[12/07, salle de l'Artimon, Locmiquélic](/reservations/2024-07-12)<br/>
 
 ### Giardino Musicale
+![](/images/concerts/2024-giardino.png)<br/>
 [13/08, chapelle de Lomener](/reservations/2024-08-13)<br/>
 [14/08, salle de l'Artimon, Locmiquélic](/reservations/2024-08-14)<br/>
 [15/08, église de Clohars-Fouesnant](/reservations/2024-08-15)<br/>
@@ -51,6 +47,13 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 Les concerts passés sont dans l'ordre antéchronologique, du plus récent au plus ancien.
 
 ### 2024
+
+### Sacqueboutiers au beurre salé
+![](/images/concerts/2024-sacqueboutiers.png)<br/>
+[10/07, Fouesnant, festival Chambre avec Vue](/reservations/2024-07-10)<br/>
+[11/07, chapelle de Lomener](/reservations/2024-07-11)<br/>
+[12/07, salle de l'Artimon, Locmiquélic](/reservations/2024-07-12)<br/>
+
 
 ![](/images/concerts/2024-trio-nuit-dete.png)<br/>
 [30/05, salle de l'Artimon, Locmiquélic](/reservations/2024-05-30)<br/>

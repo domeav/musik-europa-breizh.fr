@@ -59,7 +59,8 @@ une personne qui aura choisi un trajet intéressant d’un point de vue
 partagée. Peut être même d’entendre ces sons comme de la musique ! Le
 mieux, pour comprendre, c’est d’essayer :-)
 
-Les balades sont organisées par Raphaël Bruni d’Achon, musicologue.
+Les balades sont organisées par Raphaël Bruni d’Achon,
+musicologue. Inscrivez-vous par mail à [mel@musik-europa-breizh.fr](mailto:mel@musik-europa-breizh.fr).
 
 Tout le programme des balades sonores 2024 est disponible [ici](/files/MEL_2024.pdf).
 
