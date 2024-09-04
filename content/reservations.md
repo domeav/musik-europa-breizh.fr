@@ -22,13 +22,8 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 <center>
 
 
-### Giardino Musicale
-![](/images/concerts/2024-giardino.png)<br/>
-[13/08, chapelle de Lomener](/reservations/2024-08-13)<br/>
-[14/08, salle de l'Artimon, Locmiquélic](/reservations/2024-08-14)<br/>
-[15/08, église de Clohars-Fouesnant](/reservations/2024-08-15)<br/>
-
 ### Miroir, mon beau miroir
+![](/images/concerts/2024-miroir.png)<br/>
 [13/09, église de Clohars-Fouesnant](/reservations/2024-09-13)<br/>
 [14/09, salle de l'Artimon, Locmiquélic](/reservations/2024-09-14)<br/>
 [15/09, chapelle de Lomener](/reservations/2024-09-15)<br/>
@@ -47,6 +42,13 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 Les concerts passés sont dans l'ordre antéchronologique, du plus récent au plus ancien.
 
 ### 2024
+
+### Giardino Musicale
+![](/images/concerts/2024-giardino.png)<br/>
+[13/08, chapelle de Lomener](/reservations/2024-08-13)<br/>
+[14/08, salle de l'Artimon, Locmiquélic](/reservations/2024-08-14)<br/>
+[15/08, église de Clohars-Fouesnant](/reservations/2024-08-15)<br/>
+
 
 ### Sacqueboutiers au beurre salé
 ![](/images/concerts/2024-sacqueboutiers.png)<br/>
