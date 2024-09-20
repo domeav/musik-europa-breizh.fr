@@ -26,6 +26,7 @@ Des musiques baroques, en somme, CQFD, mais un baroque confinant au barré.
 
 ## Chimères Acoustiques
 
+[![](/images/concerts/2024-chimeres.png)](/posts/2024-09-20-chimeres-acoustiques/)
 [Chimères Acoustiques](/posts/2024-09-20-chimeres-acoustiques/) est le nouveau rendez-vous public des différents projets contemporains de Musik Europa Breizh.
 
 La première édition aura lieu le vendredi 4 octobre 2024, voir [ici](/posts/2024-09-20-chimeres-acoustiques/) pour les détails.
