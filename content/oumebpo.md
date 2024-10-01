@@ -70,7 +70,7 @@ Les balades sonores peuvent optionnellement être enregistrées, puis
 retravaillées en compositions, en voici deux exemples : <a href="/files/Balade_sonore_syl21.mp3">syl21 (Lorient centre)</a>, <a href="/files/balade-2024-2.mp3">Raphaël (Bois du Château)</a>.
 
 Les balades sont organisées par Raphaël Bruni d’Achon,
-musicologue. Inscrivez-vous par mail à [mel@musik-europa-breizh.fr](mailto:mel@musik-europa-wqbreizh.fr) et rejoignez-nous sur <a href="https://discord.gg/JzdUFrK4sx">le dicord MEL</a>. 
+musicologue. Inscrivez-vous par mail à [mel@musik-europa-breizh.fr](mailto:mel@musik-europa-breizh.fr) et rejoignez-nous sur <a href="https://discord.gg/JzdUFrK4sx">le dicord MEL</a>. 
 
 Tout le programme des balades sonores 2024 est disponible [ici](/files/MEL_2024.pdf).
 
