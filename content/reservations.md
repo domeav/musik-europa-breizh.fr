@@ -21,11 +21,9 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 
 <center>
 
-### Badinage
-![](/images/concerts/2024-badinage.png)<br/>
-[18/10, chapelle de Lomener](/reservations/2024-10-18)<br/>
-[19/10, salle de l'Artimon, Locmiquélic](/reservations/2024-10-19)<br/>
-[20/10, église de Clohars-Fouesnant](/reservations/2024-10-20)<br/>
+![](/images/concerts/2024-favorite.png)<br/>
+[14/12, salle de l'Artimon, Locmiquélic](/reservations/2024-12-14)<br/>
+[15/12, chapelle de Lomener](/reservations/2024-12-15)<br/>
 
 </center>
 
@@ -36,6 +34,12 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 Les concerts passés sont dans l'ordre antéchronologique, du plus récent au plus ancien.
 
 ### 2024
+
+### Badinage
+![](/images/concerts/2024-badinage.png)<br/>
+[18/10, chapelle de Lomener](/reservations/2024-10-18)<br/>
+[19/10, salle de l'Artimon, Locmiquélic](/reservations/2024-10-19)<br/>
+[20/10, église de Clohars-Fouesnant](/reservations/2024-10-20)<br/>
 
 ### Chimères Acoustiques
 [![](/images/concerts/2024-chimeres.png)](/posts/2024-09-20-chimeres-acoustiques/)<br/>
