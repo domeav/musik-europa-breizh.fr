@@ -20,11 +20,7 @@ informations dans votre boîte mail !
 Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos billets pour toute la saison !
 
 <center>
-
-![](/images/concerts/2024-favorite.png)<br/>
-[14/12, salle de l'Artimon, Locmiquélic](/reservations/2024-12-14)<br/>
-[15/12, chapelle de Lomener](/reservations/2024-12-15)<br/>
-
+La saison 2025 est en préparation et sera bientôt disponible !
 </center>
 
 ## Concerts passés
@@ -35,37 +31,35 @@ Les concerts passés sont dans l'ordre antéchronologique, du plus récent au pl
 
 ### 2024
 
-### Badinage
+![](/images/concerts/2024-favorite.png)<br/>
+[14/12, salle de l'Artimon, Locmiquélic](/reservations/2024-12-14)<br/>
+[15/12, chapelle de Lomener](/reservations/2024-12-15)<br/>
+
 ![](/images/concerts/2024-badinage.png)<br/>
 [18/10, chapelle de Lomener](/reservations/2024-10-18)<br/>
 [19/10, salle de l'Artimon, Locmiquélic](/reservations/2024-10-19)<br/>
 [20/10, église de Clohars-Fouesnant](/reservations/2024-10-20)<br/>
 
-### Chimères Acoustiques
 [![](/images/concerts/2024-chimeres.png)](/posts/2024-09-20-chimeres-acoustiques/)<br/>
 [04/10, Théâtre Le City](/posts/2024-09-20-chimeres-acoustiques/), participation libre.
 
 
-### Miroir, mon beau miroir
 ![](/images/concerts/2024-miroir.png)<br/>
 [13/09, église de Clohars-Fouesnant](/reservations/2024-09-13)<br/>
 [14/09, salle de l'Artimon, Locmiquélic](/reservations/2024-09-14)<br/>
 [15/09, chapelle de Lomener](/reservations/2024-09-15)<br/>
 
 
-### Giardino Musicale
 ![](/images/concerts/2024-giardino.png)<br/>
 [13/08, chapelle de Lomener](/reservations/2024-08-13)<br/>
 [14/08, salle de l'Artimon, Locmiquélic](/reservations/2024-08-14)<br/>
 [15/08, église de Clohars-Fouesnant](/reservations/2024-08-15)<br/>
 
 
-### Sacqueboutiers au beurre salé
 ![](/images/concerts/2024-sacqueboutiers.png)<br/>
 [10/07, Fouesnant, festival Chambre avec Vue](/reservations/2024-07-10)<br/>
 [11/07, chapelle de Lomener](/reservations/2024-07-11)<br/>
 [12/07, salle de l'Artimon, Locmiquélic](/reservations/2024-07-12)<br/>
-
 
 ![](/images/concerts/2024-trio-nuit-dete.png)<br/>
 [30/05, salle de l'Artimon, Locmiquélic](/reservations/2024-05-30)<br/>
