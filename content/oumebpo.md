@@ -29,7 +29,7 @@ Des musiques baroques, en somme, CQFD, mais un baroque confinant au barré.
 [![](/images/concerts/2024-chimeres.png)](/posts/2024-09-20-chimeres-acoustiques/)
 [Chimères Acoustiques](/posts/2024-09-20-chimeres-acoustiques/) est le nouveau rendez-vous public des différents projets contemporains de Musik Europa Breizh.
 
-La première édition aura lieu le vendredi 4 octobre 2024, voir [ici](/posts/2024-09-20-chimeres-acoustiques/) pour les détails.
+La première édition a eu lieu le [vendredi 4 octobre 2024](/posts/2024-09-20-chimeres-acoustiques/).
 
 ## l'Atelier d'Improvisation Electronique 
 
@@ -72,7 +72,7 @@ retravaillées en compositions, en voici deux exemples : <a href="/files/Balade_
 Les balades sont organisées par Raphaël Bruni d’Achon,
 musicologue. Inscrivez-vous par mail à [mel@musik-europa-breizh.fr](mailto:mel@musik-europa-breizh.fr) et rejoignez-nous sur <a href="https://discord.gg/JzdUFrK4sx">le dicord MEL</a>. 
 
-Tout le programme des balades sonores 2024 est disponible [ici](/files/MEL_2024.pdf).
+Le programme des balades sonores est disponible [ici](https://mel.musik-europa-breizh.fr).
 
 [SoundSail](https://soundsail.cc) est un projet actuellement en incubation. Il s'agit d'une
 exposition musicale modulaire comprenant des compositions
@@ -106,7 +106,8 @@ ajouter une étape à leur tournée.
 Antoine Viard et son projet
 [Tumulus](http://www.collectifcoax.com/artist/tumulus) sont passés
 nous voir 2023 par l'intermédiaire de [Carton
-Records](https://www.cartoncartoncarton.com/).
+Records](https://www.cartoncartoncarton.com/). En 2024 c'est Tristan
+Ikor qui était de la partie lors de la soirée Chimères Acoustiques.
 
 ## Nuit de l'Impro
 
@@ -114,7 +115,7 @@ La [Nuit de l'Impro](https://www.ouest-france.fr/bretagne/lorient-56100/lorient-
 de plusieurs disciplines : acteurs, danseurs et musiciens. La première
 édition, portée par [Ti
 Barouf](https://www.facebook.com/p/Ti-Barouf-100087789583119/), a eu
-lieu le 30 septembre 2023.
+lieu le 30 septembre 2023. La seconde édition est programmée le [5 avril 2025](https://www.tibarouf.com/billetterie-la-nuit-de-l-impro-2).
 
 ## Fête de l'estampe : battle de gravure
 
@@ -129,4 +130,4 @@ entre artistes, en public et en musique !
 L'ouMEBpo et [BAAM](https://baam-lorient.co/) se sont associés pour
 participer aux 25èmes rencontres photographiques de Lorient avec une
 [exposition photographique et
-sonore](https://oumebpo.bandcamp.com/album/confisqu-e).
+sonore](https://franceimpro.net/confisquee/).

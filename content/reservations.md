@@ -20,7 +20,43 @@ informations dans votre boîte mail !
 Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos billets pour toute la saison !
 
 <center>
-La saison 2025 est en préparation et sera bientôt disponible !
+
+### 2025
+
+![](/images/concerts/2025-bocca.png)<br/>
+[29/05, chapelle de Lomener](#)<br>
+[30/05, église de Clohars-Fouesnant](#)<br>
+[31/05, salle Artimon, Locmiquélic](#)
+
+
+Direct Paris-Leipzig<br>
+[09/07, église de Clohars-Fouesnant](#)<br>
+[10/07, salle Artimon, Locmiquélic](#)<br>
+[11/07, chapelle de Lomener](#)
+
+
+Chants croisés<br>
+[20/08, chapelle de Lomener](#)<br>
+[11/08, salle Artimon, Locmiquélic](#)<br>
+[22/08, église de Clohars-Fouesnant](#)
+
+
+Baroque Méditerranée<br>
+[24/09, chapelle de Lomener](#)<br>
+[25/09, église de Clohars-Fouesnant](#)<br>
+[26/09, salle Artimon, Locmiquélic](#)
+
+
+Barock, mais presque...<br>
+[16/10, salle Artimon, Locmiquélic](#)<br>
+[17/10, chapelle de Lomener](#)<br>
+[18/10, église de Clohars-Fouesnant](#)
+
+
+
+
+
+
 </center>
 
 ## Concerts passés
