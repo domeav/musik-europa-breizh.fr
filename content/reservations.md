@@ -24,33 +24,33 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 ### 2025
 
 ![](/images/concerts/2025-bocca.png)<br/>
-[29/05, chapelle de Lomener](#)<br>
-[30/05, église de Clohars-Fouesnant](#)<br>
-[31/05, salle Artimon, Locmiquélic](#)
+[29/05, chapelle de Lomener](/reservations/2025-05-29)<br>
+[30/05, église de Clohars-Fouesnant](/reservations/2025-05-30)<br>
+[31/05, salle Artimon, Locmiquélic](/reservations/2025-05-31)
 
 
 Direct Paris-Leipzig<br>
-[09/07, église de Clohars-Fouesnant](#)<br>
-[10/07, salle Artimon, Locmiquélic](#)<br>
-[11/07, chapelle de Lomener](#)
+[09/07, église de Clohars-Fouesnant](/reservations/2025-07-09)<br>
+[10/07, salle Artimon, Locmiquélic](/reservations/2025-07-10)<br>
+[11/07, chapelle de Lomener](/reservations/2025-07-11)
 
 
 Chants croisés<br>
-[20/08, chapelle de Lomener](#)<br>
-[11/08, salle Artimon, Locmiquélic](#)<br>
-[22/08, église de Clohars-Fouesnant](#)
+[20/08, chapelle de Lomener](/reservations/2025-08-20)<br>
+[21/08, salle Artimon, Locmiquélic](/reservations/2025-08-21)<br>
+[22/08, église de Clohars-Fouesnant](/reservations/2025-08-22)
 
 
 Baroque Méditerranée<br>
-[24/09, chapelle de Lomener](#)<br>
-[25/09, église de Clohars-Fouesnant](#)<br>
-[26/09, salle Artimon, Locmiquélic](#)
+[24/09, chapelle de Lomener](/reservations/2025-09-24)<br>
+[25/09, église de Clohars-Fouesnant](/reservations/2025-09-25)<br>
+[26/09, salle Artimon, Locmiquélic](/reservations/2025-09-26)
 
 
 Barock, mais presque...<br>
-[16/10, salle Artimon, Locmiquélic](#)<br>
-[17/10, chapelle de Lomener](#)<br>
-[18/10, église de Clohars-Fouesnant](#)
+[16/10, salle Artimon, Locmiquélic](/reservations/2025-10-16)<br>
+[17/10, chapelle de Lomener](/reservations/2025-10-17)<br>
+[18/10, église de Clohars-Fouesnant](/reservations/2025-10-18)
 
 
 
