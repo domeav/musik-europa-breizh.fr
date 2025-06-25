@@ -23,19 +23,13 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 
 ### 2025
 
-![](/images/concerts/2025-bocca.png)<br/>
-[29/05, chapelle de Lomener](/reservations/2025-05-29)<br>
-[30/05, église de Clohars-Fouesnant](/reservations/2025-05-30)<br>
-[31/05, salle Artimon, Locmiquélic](/reservations/2025-05-31)
-
-
-Direct Paris-Leipzig<br>
+![](/images/concerts/2025-DPL.png)<br/>
 [09/07, église de Clohars-Fouesnant](/reservations/2025-07-09)<br>
 [10/07, salle Artimon, Locmiquélic](/reservations/2025-07-10)<br>
 [11/07, chapelle de Lomener](/reservations/2025-07-11)
 
 
-Chants croisés<br>
+![](/images/concerts/2025-chants-croises.png)<br/>
 [20/08, chapelle de Lomener](/reservations/2025-08-20)<br>
 [21/08, salle Artimon, Locmiquélic](/reservations/2025-08-21)<br>
 [22/08, église de Clohars-Fouesnant](/reservations/2025-08-22)
@@ -65,16 +59,25 @@ Barock, mais presque...<br>
 
 Les concerts passés sont dans l'ordre antéchronologique, du plus récent au plus ancien.
 
+### 2025
+
+![](/images/concerts/2025-bocca.png)<br/>
+[29/05, chapelle de Lomener](/reservations/2025-05-29)<br>
+[30/05, église de Clohars-Fouesnant](/reservations/2025-05-30)<br>
+[31/05, salle Artimon, Locmiquélic](/reservations/2025-05-31)
+
 ### 2024
 
 ![](/images/concerts/2024-favorite.png)<br/>
 [14/12, salle de l'Artimon, Locmiquélic](/reservations/2024-12-14)<br/>
 [15/12, chapelle de Lomener](/reservations/2024-12-15)<br/>
 
+
 ![](/images/concerts/2024-badinage.png)<br/>
 [18/10, chapelle de Lomener](/reservations/2024-10-18)<br/>
 [19/10, salle de l'Artimon, Locmiquélic](/reservations/2024-10-19)<br/>
 [20/10, église de Clohars-Fouesnant](/reservations/2024-10-20)<br/>
+
 
 [![](/images/concerts/2024-chimeres.png)](/posts/2024-09-20-chimeres-acoustiques/)<br/>
 [04/10, Théâtre Le City](/posts/2024-09-20-chimeres-acoustiques/), participation libre.

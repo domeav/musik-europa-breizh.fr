@@ -24,13 +24,6 @@ contraire.
 
 Des musiques baroques, en somme, CQFD, mais un baroque confinant au barré.
 
-## Chimères Acoustiques
-
-[![](/images/concerts/2024-chimeres.png)](/posts/2024-09-20-chimeres-acoustiques/)
-[Chimères Acoustiques](/posts/2024-09-20-chimeres-acoustiques/) est le nouveau rendez-vous public des différents projets contemporains de Musik Europa Breizh.
-
-La première édition a eu lieu le [vendredi 4 octobre 2024](/posts/2024-09-20-chimeres-acoustiques/).
-
 ## l'Atelier d'Improvisation Electronique 
 
 ![AIE](/images/aie.png)
@@ -96,7 +89,7 @@ d'Improvisation Électronique a enregistré sa première contribution en
 La Rallonge peut prendre des formes multiples : installations,
 projection/concert...
 
-## Zique d'étape
+## Musiques Barrées
 
 L'ouMEBpo cherche à faire exister Lorient sur une carte des musiques
 aventureuses, et souhaite accompagner les artistes disposant de
@@ -108,6 +101,9 @@ Antoine Viard et son projet
 nous voir 2023 par l'intermédiaire de [Carton
 Records](https://www.cartoncartoncarton.com/). En 2024 c'est Tristan
 Ikor qui était de la partie lors de la soirée Chimères Acoustiques.
+En 2025 nous démarrons un partenariat de programmation de concerts 
+avec [l'Embarcadère](https://www.embarcadere-lorient.org/), qui nous a permis
+d'inviter Éric Thomas.
 
 ## Nuit de l'Impro
 
@@ -115,7 +111,7 @@ La [Nuit de l'Impro](https://www.ouest-france.fr/bretagne/lorient-56100/lorient-
 de plusieurs disciplines : acteurs, danseurs et musiciens. La première
 édition, portée par [Ti
 Barouf](https://www.facebook.com/p/Ti-Barouf-100087789583119/), a eu
-lieu le 30 septembre 2023. La seconde édition est programmée le [5 avril 2025](https://www.tibarouf.com/billetterie-la-nuit-de-l-impro-2).
+lieu le 30 septembre 2023. Une seconde édition a eu lieu au conservatoire de Lorient le [5 avril 2025](https://www.tibarouf.com/billetterie-la-nuit-de-l-impro-2).
 
 ## Fête de l'estampe : battle de gravure
 
@@ -131,3 +127,9 @@ L'ouMEBpo et [BAAM](https://baam-lorient.co/) se sont associés pour
 participer aux 25èmes rencontres photographiques de Lorient avec une
 [exposition photographique et
 sonore](https://franceimpro.net/confisquee/).
+
+## Chimères Acoustiques
+
+[Chimères Acoustiques](/posts/2024-09-20-chimeres-acoustiques/) est le rendez-vous des différents projets contemporains de Musik Europa Breizh.
+
+La première édition a eu lieu le [vendredi 4 octobre 2024](/posts/2024-09-20-chimeres-acoustiques/).
