@@ -23,12 +23,6 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 
 ### 2025
 
-![](/images/concerts/2025-DPL.png)<br/>
-[09/07, église de Clohars-Fouesnant](/reservations/2025-07-09)<br>
-[10/07, salle Artimon, Locmiquélic](/reservations/2025-07-10)<br>
-[11/07, chapelle de Lomener](/reservations/2025-07-11)
-
-
 ![](/images/concerts/2025-chants-croises.png)<br/>
 [20/08, chapelle de Lomener](/reservations/2025-08-20)<br>
 [21/08, salle Artimon, Locmiquélic](/reservations/2025-08-21)<br>
@@ -60,6 +54,12 @@ Barock, mais presque...<br>
 Les concerts passés sont dans l'ordre antéchronologique, du plus récent au plus ancien.
 
 ### 2025
+
+![](/images/concerts/2025-DPL.png)<br/>
+[09/07, église de Clohars-Fouesnant](/reservations/2025-07-09)<br>
+[10/07, salle Artimon, Locmiquélic](/reservations/2025-07-10)<br>
+[11/07, chapelle de Lomener](/reservations/2025-07-11)
+
 
 ![](/images/concerts/2025-bocca.png)<br/>
 [29/05, chapelle de Lomener](/reservations/2025-05-29)<br>
