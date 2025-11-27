@@ -23,12 +23,9 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 
 ### 2025
 
-
-![](/images/concerts/barock.png)<br/>
-[16/10, salle Artimon, Locmiquélic](/reservations/2025-10-16)<br>
-[17/10, chapelle de Lomener](/reservations/2025-10-17)<br>
-[18/10, église de Clohars-Fouesnant](/reservations/2025-10-18)
-
+![](/images/photos/echodesvagues.jpg)<br/>
+Le Messie de Haendel : oratorio pour chœur, solistes et orchestre<br/>
+[Vendredi 19 décembre, 20h, église St Pierre, Ploemeur](https://www.echodesvagues.fr/pages/concerts/billetterie.html)
 
 
 </center>
@@ -40,6 +37,12 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 Les concerts passés sont dans l'ordre antéchronologique, du plus récent au plus ancien.
 
 ### 2025
+
+![](/images/concerts/barock.png)<br/>
+[16/10, salle Artimon, Locmiquélic](/reservations/2025-10-16)<br>
+[17/10, chapelle de Lomener](/reservations/2025-10-17)<br>
+[18/10, église de Clohars-Fouesnant](/reservations/2025-10-18)
+
 
 ![](/images/concerts/2025-voyage.png)<br/>
 [24/09, chapelle de Lomener](/reservations/2025-09-24)<br>
