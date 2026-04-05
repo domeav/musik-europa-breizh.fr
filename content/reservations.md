@@ -27,25 +27,25 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 [vendredi 24 avril, 20h, salle Artimon, Locmiquélic](/reservations/2026-04-24)<br/>
 
 
-Baroque Méditerranée<br/>
+![](/images/concerts/2026-barmed.png)<br/>
 [mardi 26 mai, 20h, église de Clohars-Fouesnant](/reservations/2026-05-26)<br/>
 [mercredi 27 mai, 20h, chapelle de Lomener](/reservations/2026-05-27)<br/>
 [jeudi 28 mai, 20h, salle Artimon, Locmiquélic](/reservations/2026-05-28)<br/>
 
 
-Trompette au naturel<br/>
+**Trompette au naturel**<br/>
 [jeudi 9 juillet, 20h, salle Artimon, Locmiquélic](/reservations/2026-07-09)<br/>
 [vendredi 10 juillet, 20h, chapelle de Lomener](/reservations/2026-07-10)<br/>
 [samedi 11 juillet, 20h, église de Clohars-Fouesnant](/reservations/2026-07-11)<br/>
 
 
-Los pasos perdidos<br/>
+**Los pasos perdidos**<br/>
 [mercredi 19 août, 20h, église de Clohars-Fouesnant](/reservations/2026-08-19)<br/>
 [jeudi 20 août, 20h, salle Artimon, Locmiquélic](/reservations/2026-08-20)<br/>
 [vendredi 21 août, 20h, chapelle de Lomener](/reservations/2026-08-21)<br/>
 
 
-Maestras : femmes compositrices<br/>
+**Maestras : femmes compositrices**<br/>
 [jeudi 8 octobre, 20h, chapelle de Lomener](/reservations/2026-10-08)<br/>
 [vendredi 9 octobre, 20h, salle Artimon, Locmiquélic](/reservations/2026-10-09)<br/>
 [dimanche 11 octobre, 17h, église de Clohars-Fouesnant](/reservations/2026-10-11)<br/>
