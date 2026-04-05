@@ -3,8 +3,8 @@ title: ouMEBpo
 bigimg: [{src: '/images/photos/AIE.jpg'}]
 omit_header_text: true
 type: page
-menu: main
-weight: 21
+menus: main
+weight: 23
 ---
 
 L'ouMEBpo est un [ouXpo](https://fr.wikipedia.org/wiki/Ouvroir_d%27x_potentiel)
@@ -24,58 +24,37 @@ contraire.
 
 Des musiques baroques, en somme, CQFD, mais un baroque confinant au barré.
 
-## l'Atelier d'Improvisation Electronique 
+*L'ouMEBpo est le projet ombrelle pour les propositions de musique
+contemporaines de l'association Musik Europa Breizh*. Certaines de ces
+propositions ont des pages dédiées : [l'Atelier Impro/Électro (AIE)](/aie) et
+[Musique Environnementale de Lorient (MEL)](/mel).
 
-![AIE](/images/aie.png)
+D'autres sont présentées ci-dessous.
 
-[L'Atelier d'Improvisation
-Électronique](https://aie.musik-europa-breizh.fr) (AÏE) de l'ouMEBpo
-propose des sessions d'improvisation libre - ou improvisation
-collective, ou musique générationnelle... les étiquettes ne manquent
-pas.
+## Lorient 360
 
-L'Atelier se rassemble deux fois par mois au Pôle Jeunesse/Baratin de
-Quéven, et intervient régulièrement dans tout le Pays de Lorient.
+Musik Europa Breizh propose un évenement musical multi-facettes
+labellisé pour les 360 ans de la ville de Lorient sur week-end entier
+(dernier week-end d'août), qui comprend différents regards sonores sur
+les ports de Lorient.
 
-AIE est un vivier de musiciens disponibles pour les projets et les
-rencontres les plus improbables : n'hésitez pas à nous solliciter !
+Nous investissons un lieu à partir duquel nous allons :
 
-## MEL / Balades sonores / SoundSail
+– présenter une installation sonore sur les métiers de la course au
+large ([SoundSail](https://soundsail.cc/))
 
-![mel](/images/mel.png)
+– proposer des balades sonores qui traverseront les différents ports,
+pendant lesquelles seront réalisées des captations
 
-MEL signifie **Musique Environnementale de Lorient**. MEL représente
-l'environnement sonore de Lorient vu par des artistes, des habitants,
-des travailleurs, toute personne qui tend l’oreille, le micro et qui
-s’intéresse à cet espace sonore. Personne ne possède MEL mais des
-acteurs, comme l’association Musik Europa Breizh, font des projets
-autour.
+– écouter les musiciens de l'[Atelier Impro/Électro](/aie) construire
+une improvisation musicale (éventuellement dansée et ou dessinée) à
+partir des sons capturés lors des balades sonores
 
-MEL organise des **Balades Sonores** dans le pays de Lorient. Une
-Balade Sonore est une déambulation lente sur un parcours, dirigée par
-une personne qui aura choisi un trajet intéressant d’un point de vue
-(ou d’ouïe) sonore. Le but est de redécouvrir des sons du quotidien ou
-(et) d’en découvrir de nouveaux dans un contexte d’écoute
-partagée. Peut être même d’entendre ces sons comme de la musique ! Le
-mieux, pour comprendre, c’est d’essayer :-)
+– tracer un trait d'union historique et musical sous forme de
+composition entre la pratique traditionnelle de la vente à la criée et
+une pièce de musique électronique inspirée par la forme contemporaine
+(informatisée) de la criée de Lorient
 
-Les balades sonores peuvent optionnellement être enregistrées, puis
-retravaillées en compositions, en voici deux exemples : <a href="/files/Balade_sonore_syl21.mp3">syl21 (Lorient centre)</a>, <a href="/files/balade-2024-2.mp3">Raphaël (Bois du Château)</a>.
-
-Les balades sont organisées par Raphaël Bruni d’Achon,
-musicologue. Inscrivez-vous par mail à [mel@musik-europa-breizh.fr](mailto:mel@musik-europa-breizh.fr) et rejoignez-nous sur <a href="https://discord.gg/JzdUFrK4sx">le dicord MEL</a>. 
-
-Le programme des balades sonores est disponible [ici](https://mel.musik-europa-breizh.fr).
-
-[SoundSail](https://soundsail.cc) est un projet actuellement en incubation. Il s'agit d'une
-exposition musicale modulaire comprenant des compositions
-acousmatiques ou électroacoustiques mises en espace de façon
-artistique, immersive et ludique autour des métiers de la course au
-large : matelotage, accastillage, matériaux...
-
-Notre objectif est de faire découvrir ces métiers, leur environnement
-visuel et sonore, leur grande diversité, leurs richesse mais aussi
-leurs difficultés et leurs enjeux environnementaux.
 
 ## La Rallonge
 
@@ -101,9 +80,12 @@ Antoine Viard et son projet
 nous voir 2023 par l'intermédiaire de [Carton
 Records](https://www.cartoncartoncarton.com/). En 2024 c'est Tristan
 Ikor qui était de la partie lors de la soirée Chimères Acoustiques.
-En 2025 nous démarrons un partenariat de programmation de concerts 
-avec [l'Embarcadère](https://www.embarcadere-lorient.org/), qui nous a permis
-d'inviter Éric Thomas.
+En 2025 nous démarrons un partenariat de programmation de concerts
+avec [l'Embarcadère](https://www.embarcadere-lorient.org/), qui nous a
+permis d'inviter [Éric
+Thomas](https://begarrozpublishing.bandcamp.com/), le [duo
+Dales](https://dales.bandcamp.com/) et [Lucie
+Laricq](https://lucielaricq.franceimpro.net/).
 
 ## Nuit de l'Impro
 
@@ -128,8 +110,3 @@ participer aux 25èmes rencontres photographiques de Lorient avec une
 [exposition photographique et
 sonore](https://franceimpro.net/confisquee/).
 
-## Chimères Acoustiques
-
-[Chimères Acoustiques](/posts/2024-09-20-chimeres-acoustiques/) est le rendez-vous des différents projets contemporains de Musik Europa Breizh.
-
-La première édition a eu lieu le [vendredi 4 octobre 2024](/posts/2024-09-20-chimeres-acoustiques/).

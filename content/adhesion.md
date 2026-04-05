@@ -3,7 +3,7 @@ title: Adhésions
 bigimg: [{src: '/images/photos/10.jpg'}]
 omit_header_text: true
 type: page
-menu: main
+menus: main
 weight: 50
 ---
 

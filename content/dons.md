@@ -3,7 +3,7 @@ title: Dons
 bigimg: [{src: '/images/photos/05.jpg'}]
 omit_header_text: true
 type: page
-menu: main
+menus: main
 weight: 50
 ---
 

@@ -3,7 +3,7 @@ title: 'MEB'
 bigimg: [{src: '/images/photos/01.jpg'}]
 omit_header_text: true
 type: page
-menu: main
+menus: main
 weight: 20
 ---
 

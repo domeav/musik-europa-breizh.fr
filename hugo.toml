@@ -3,7 +3,7 @@ languageCode = 'fr-fr'
 title = 'Musik Europa Breizh'
 theme = ['beautifulhugo']
 DefaultContentLanguage = "fr"
-SectionPagesMenu = "main"
+#SectionPagesMenu = "main"
 Paginate = 10
 enableRobotsTXT = true
 

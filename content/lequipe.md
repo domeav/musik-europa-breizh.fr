@@ -3,7 +3,7 @@ title: L'équipe / contact
 bigimg: [{src: '/images/photos/09.jpg'}]
 omit_header_text: true
 type: page
-menu: main
+menus: main
 weight: 1000
 ---
 
