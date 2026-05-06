@@ -12,8 +12,8 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
-        {{ range .Site.Menus.main.ByWeight }}	
-	{{ if not .Page.Params.hidden }}
+        {{ range .Site.Menus.main.ByWeight }}
+          {{ if not .Page.Params.hidden }}
           {{ if .HasChildren }}
             <li class="navlinks-container">
               <a class="navlinks-parent" role="button" tabindex="0">{{ .Name }}</a>
@@ -28,10 +28,10 @@
               <a title="{{ .Name }}" href="{{ .URL  | relLangURL }}">{{ .Name }}</a>
             </li>
           {{ end }}
+          {{ end }}
         {{ end }}
-	{{ end }}
 
-        {{ if .Site.IsMultiLingual }}
+        {{ if gt (len .Site.Languages) 1 }}
           {{ if ge (len .Site.Languages) 3 }}
             <li class="navlinks-container">
               <a class="navlinks-parent" role="button" tabindex="0">{{ i18n "languageSwitcherLabel" }}</a>

@@ -3,6 +3,7 @@ title: Concerts
 bigimg: [{src: '/images/photos/07.jpg'}]
 omit_header_text: true
 type: page
+layout: single
 menus: main
 weight: 1
 ---
