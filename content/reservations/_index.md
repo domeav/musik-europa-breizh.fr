@@ -22,12 +22,6 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 
 ### 2026
 
-![](/images/concerts/2026-pois.png)<br/>
-[mercredi 22 avril, 20h, église de Larmor-Plage](/reservations/2026-04-22)<br>
-[jeudi 23 avril, 20h, église de Clohars-Fouesnant](/reservations/2026-04-23)<br/>
-[vendredi 24 avril, 20h, salle Artimon, Locmiquélic](/reservations/2026-04-24)<br/>
-
-
 ![](/images/concerts/2026-barmed.png)<br/>
 [mardi 26 mai, 20h, église de Clohars-Fouesnant](/reservations/2026-05-26)<br/>
 [mercredi 27 mai, 20h, chapelle de Lomener](/reservations/2026-05-27)<br/>
@@ -59,6 +53,14 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 <center>
 
 Les concerts passés sont dans l'ordre antéchronologique, du plus récent au plus ancien.
+
+### 2026
+
+![](/images/concerts/2026-pois.png)<br/>
+[mercredi 22 avril, 20h, église de Larmor-Plage](/reservations/2026-04-22)<br>
+[jeudi 23 avril, 20h, église de Clohars-Fouesnant](/reservations/2026-04-23)<br/>
+[vendredi 24 avril, 20h, salle Artimon, Locmiquélic](/reservations/2026-04-24)<br/>
+
 
 ### 2025
 
