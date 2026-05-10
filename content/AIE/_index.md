@@ -8,7 +8,7 @@ weight: 21
 
 # L'Atelier Impro/Électro
 
-![](aie.png)
+![](aie.webp)
 
 ## Concept et manifeste
 
@@ -38,7 +38,7 @@ l'échange et lui substituer un dialogue de sourds. La
 pratique d'une écoute active est essentielle, et décider ne
 pas jouer est à tout moment un acte musical positif.
 
-![](anechoique.jpg)
+![](anechoique.webp)
 
 ## Éléments stylistiques
 
@@ -64,7 +64,7 @@ assimilée à une composition : l'opposition entre composition
 est improvisation est arbitraire et n'a pas de raison d'être
 dans notre contexte.
 
-![](fraction.jpg)
+![](fraction.webp)
 
 ## Machines et instruments
 
@@ -78,7 +78,7 @@ serait-ce que pour mieux les présenter aux autres !
 Attention aussi au temps de branchement pour qu'il n'empiète
 pas trop sur la pratique.
 
-![](machines.jpg)
+![](machines.webp)
 
 ## Concerts
 
@@ -92,4 +92,4 @@ Des synergies avec des
 plasticiens, des vidéastes, des danseurs, des acteurs sont également à
 explorer, voir par exemple [la Rallonge](http://larallonge.franceimpro.net).
 
-![](sloli.jpg)
+![](sloli.webp)

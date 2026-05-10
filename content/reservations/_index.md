@@ -1,6 +1,6 @@
 ---
 title: Concerts
-bigimg: [{src: '/images/photos/07.jpg'}]
+bigimg: [{src: '/reservations/07.webp'}]
 omit_header_text: true
 type: page
 layout: single
@@ -22,7 +22,7 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 
 ### 2026
 
-![](/images/concerts/2026-barmed.png)<br/>
+![](2026-barmed.webp)<br/>
 [mardi 26 mai, 20h, église de Clohars-Fouesnant](/reservations/2026-05-26)<br/>
 [mercredi 27 mai, 20h, chapelle de Lomener](/reservations/2026-05-27)<br/>
 [jeudi 28 mai, 20h, salle Artimon, Locmiquélic](/reservations/2026-05-28)<br/>
@@ -56,7 +56,7 @@ Les concerts passés sont dans l'ordre antéchronologique, du plus récent au pl
 
 ### 2026
 
-![](/images/concerts/2026-pois.png)<br/>
+![](2026-pois.webp)<br/>
 [mercredi 22 avril, 20h, église de Larmor-Plage](/reservations/2026-04-22)<br>
 [jeudi 23 avril, 20h, église de Clohars-Fouesnant](/reservations/2026-04-23)<br/>
 [vendredi 24 avril, 20h, salle Artimon, Locmiquélic](/reservations/2026-04-24)<br/>
@@ -64,74 +64,74 @@ Les concerts passés sont dans l'ordre antéchronologique, du plus récent au pl
 
 ### 2025
 
-![](/images/photos/echodesvagues.jpg)<br/>
+![](/images/photos/echodesvagues.webp)<br/>
 Le Messie de Haendel : oratorio pour chœur, solistes et orchestre<br/>
 [Vendredi 19 décembre, 20h, église St Pierre, Ploemeur](https://www.echodesvagues.fr/pages/concerts/billetterie.html)
 
-![](/images/concerts/barock.png)<br/>
+![](barock.webp)<br/>
 [16/10, salle Artimon, Locmiquélic](/reservations/2025-10-16)<br>
 [17/10, chapelle de Lomener](/reservations/2025-10-17)<br>
 [18/10, église de Clohars-Fouesnant](/reservations/2025-10-18)
 
 
-![](/images/concerts/2025-voyage.png)<br/>
+![](2025-voyage.webp)<br/>
 [24/09, chapelle de Lomener](/reservations/2025-09-24)<br>
 [25/09, église de Clohars-Fouesnant](/reservations/2025-09-25)<br>
 [26/09, salle Artimon, Locmiquélic](/reservations/2025-09-26)
 
 
-![](/images/concerts/2025-chants-croises.png)<br/>
+![](2025-chants-croises.webp)<br/>
 [20/08, chapelle de Lomener](/reservations/2025-08-20)<br>
 [21/08, salle Artimon, Locmiquélic](/reservations/2025-08-21)<br>
 [22/08, église de Clohars-Fouesnant](/reservations/2025-08-22)
 
 
-![](/images/concerts/2025-DPL.png)<br/>
+![](2025-DPL.webp)<br/>
 [09/07, église de Clohars-Fouesnant](/reservations/2025-07-09)<br>
 [10/07, salle Artimon, Locmiquélic](/reservations/2025-07-10)<br>
 [11/07, chapelle de Lomener](/reservations/2025-07-11)
 
 
-![](/images/concerts/2025-bocca.png)<br/>
+![](2025-bocca.webp)<br/>
 [29/05, chapelle de Lomener](/reservations/2025-05-29)<br>
 [30/05, église de Clohars-Fouesnant](/reservations/2025-05-30)<br>
 [31/05, salle Artimon, Locmiquélic](/reservations/2025-05-31)
 
 ### 2024
 
-![](/images/concerts/2024-favorite.png)<br/>
+![](2024-favorite.webp)<br/>
 [14/12, salle de l'Artimon, Locmiquélic](/reservations/2024-12-14)<br/>
 [15/12, chapelle de Lomener](/reservations/2024-12-15)<br/>
 
 
-![](/images/concerts/2024-badinage.png)<br/>
+![](2024-badinage.webp)<br/>
 [18/10, chapelle de Lomener](/reservations/2024-10-18)<br/>
 [19/10, salle de l'Artimon, Locmiquélic](/reservations/2024-10-19)<br/>
 [20/10, église de Clohars-Fouesnant](/reservations/2024-10-20)<br/>
 
 
-[![](/images/concerts/2024-chimeres.png)](/posts/2024-09-20-chimeres-acoustiques/)<br/>
+[![](2024-chimeres.webp)](/posts/2024-09-20-chimeres-acoustiques/)<br/>
 [04/10, Théâtre Le City](/posts/2024-09-20-chimeres-acoustiques/), participation libre.
 
 
-![](/images/concerts/2024-miroir.png)<br/>
+![](2024-miroir.webp)<br/>
 [13/09, église de Clohars-Fouesnant](/reservations/2024-09-13)<br/>
 [14/09, salle de l'Artimon, Locmiquélic](/reservations/2024-09-14)<br/>
 [15/09, chapelle de Lomener](/reservations/2024-09-15)<br/>
 
 
-![](/images/concerts/2024-giardino.png)<br/>
+![](2024-giardino.webp)<br/>
 [13/08, chapelle de Lomener](/reservations/2024-08-13)<br/>
 [14/08, salle de l'Artimon, Locmiquélic](/reservations/2024-08-14)<br/>
 [15/08, église de Clohars-Fouesnant](/reservations/2024-08-15)<br/>
 
 
-![](/images/concerts/2024-sacqueboutiers.png)<br/>
+![](2024-sacqueboutiers.webp)<br/>
 [10/07, Fouesnant, festival Chambre avec Vue](/reservations/2024-07-10)<br/>
 [11/07, chapelle de Lomener](/reservations/2024-07-11)<br/>
 [12/07, salle de l'Artimon, Locmiquélic](/reservations/2024-07-12)<br/>
 
-![](/images/concerts/2024-trio-nuit-dete.png)<br/>
+![](2024-trio-nuit-dete.webp)<br/>
 [30/05, salle de l'Artimon, Locmiquélic](/reservations/2024-05-30)<br/>
 [31/05, chapelle de Lomener](/reservations/2024-05-31)<br/>
 [01/06, église de Clohars-Fouesnant](/reservations/2024-06-01)
@@ -139,56 +139,56 @@ Le Messie de Haendel : oratorio pour chœur, solistes et orchestre<br/>
 
 ### 2023
 
-![](/images/concerts/baroque-trombone.jpg)<br/>
+![](baroque-trombone.webp)<br/>
 21/09, salle de l'Artimon, Locmiquélic<br/>
 29/09, chapelle de Lomener<br/>
 30/09, église de Clohars-Fouesnant
 
-![](/images/concerts/la-grande-traversee.jpg)<br/>
+![](la-grande-traversee.webp)<br/>
 15/08, chapelle de Lomener<br/>
 16/08, église de Clohars-Fouesnant<br/>
 17/08, salle de l'Artimon, Locmiquélic
 
-![](/images/concerts/france-angleterre.jpg)<br/>
+![](france-angleterre.webp)<br/>
 03/08 église de Clohars Fouesnant
   
-![](/images/concerts/hautbois-dmon-coeur.jpg)<br/>
+![](hautbois-dmon-coeur.webp)<br/>
 20/07, salle de l’Artimon à Locmiquélic<br/>
 21/07, chapelle de Lomener<br/>
 22/07 église de Clohars Fouesnant
 
-![](/images/concerts/regale-clavecin.jpg)<br/>
+![](regale-clavecin.webp)<br/>
 29/06, salle de l’Artimon à Locmiquélic<br/>
 30/06, chapelle de Lomener<br/>
 02/07 église de Clohars Fouesnant
 
-![](/images/concerts/labyrinthe2.jpg)<br/>
+![](labyrinthe2.webp)<br/>
 12/05, salle de l’Artimon à Locmiquélic<br/>
 13/05, chapelle de Lomener<br/>
 14/05 église de Clohars Fouesnant
 
 ### 2022
 
-![](/images/concerts/noel.jpg)<br/>
+![](noel.webp)<br/>
 17/12 chapelle de Lomener<br/>
 18/12 église de Nizon en Pont Aven (Préludes de Pont Aven)
 
-![](/images/concerts/anniversaires.jpg)<br/>
+![](anniversaires.webp)<br/>
 24/08 chapelle St Anne, Fouesnant (Chambre avec Vue)<br/>
 09/11 salle de l’Artimon, Locmiquélic<br/>
 11/11 chapelle de Lomener, Ploemeur
 
-![](/images/concerts/serpent.jpg)<br/>
+![](serpent.webp)<br/>
 31/08 Riantec<br/>
 02/09, chapelle de Lomener<br/>
 03/09, chapelle sainte Anne Fouesnant
 
-![](/images/concerts/pascal.jpg)<br/>
+![](pascal.webp)<br/>
 13/04, salle de l’Artimon à Locmiquélic<br/>
 18/04, chapelle de Lomener<br/>
 21/07 église de Clohars Fouesnant
 
-![](/images/concerts/tartuffe.jpg)<br/>
+![](tartuffe.webp)<br/>
 10/02, Ploemeur
 
 </center>

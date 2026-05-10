@@ -8,7 +8,7 @@ weight: 22
 
 ## Musique Environnementale de Lorient
 
-![](mel.png)
+![](mel.webp)
 
 MEL représente l’environnement sonore de Lorient vu par des artistes,
 des habitants, des travailleurs, toute personne qui tend l’oreille, le
@@ -39,7 +39,7 @@ mail](mailto:mel@musik-europa-breizh.fr) et/ou rejoignez-nous sur le
 
 ## SoundSail
 
-![](soundsail.png)
+![](soundsail.webp)
 
 [SoundSail](https://soundsail.cc) est une oeuvre sur les métiers qui
 gravitent autour de la course au large.  Nous avons enregistré et
@@ -50,7 +50,7 @@ dans une installation sonore et visuelle.
       
 ## Atelier Impro/Électro : quand MEL s'en mèle !
 
-![](/aie/aie.png)
+![](/aie/aie.webp)
       
 L'[AIE](/aie) propose des ateliers d'improvisation ouverts à tous et
 toutes plusieurs fois par mois, ainsi que des concerts. Ces deux

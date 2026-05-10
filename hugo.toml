@@ -26,5 +26,5 @@ enableRobotsTXT = true
   mainSections = ["posts"]
 
 [[Params.bigimg]]
-  src = "/images/photos/02.jpg"
+  src = "/images/photos/02.webp"
 
