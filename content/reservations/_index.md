@@ -22,13 +22,7 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 
 ### 2026
 
-![](2026-trompette.webp)<br/>
-[jeudi 9 juillet, 20h, salle Artimon, Locmiquélic](/reservations/2026-07-09)<br/>
-[vendredi 10 juillet, 20h, chapelle de Lomener](/reservations/2026-07-10)<br/>
-[samedi 11 juillet, 20h, église de Clohars-Fouesnant](/reservations/2026-07-11)<br/>
-
-
-**Los pasos perdidos**<br/>
+![](2026-pasos.webp)<br/>
 [mercredi 19 août, 20h, église de Clohars-Fouesnant](/reservations/2026-08-19)<br/>
 [jeudi 20 août, 20h, salle Artimon, Locmiquélic](/reservations/2026-08-20)<br/>
 [vendredi 21 août, 20h, chapelle de Lomener](/reservations/2026-08-21)<br/>
@@ -49,6 +43,12 @@ Les concerts à venir sont dans l'ordre chronologique : vous pouvez acheter vos 
 Les concerts passés sont dans l'ordre antéchronologique, du plus récent au plus ancien.
 
 ### 2026
+
+![](2026-trompette.webp)<br/>
+[jeudi 9 juillet, 20h, salle Artimon, Locmiquélic](/reservations/2026-07-09)<br/>
+[vendredi 10 juillet, 20h, chapelle de Lomener](/reservations/2026-07-10)<br/>
+[samedi 11 juillet, 20h, église de Clohars-Fouesnant](/reservations/2026-07-11)<br/>
+
 
 ![](2026-barmed.webp)<br/>
 [mardi 26 mai, 20h, église de Clohars-Fouesnant](/reservations/2026-05-26)<br/>
