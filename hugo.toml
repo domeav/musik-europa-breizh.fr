@@ -28,3 +28,8 @@ enableRobotsTXT = true
 [[Params.bigimg]]
   src = "/images/photos/02.webp"
 
+
+[[menus.main]]
+  identifier = "projets"
+  name = "Projets"
+  weight = 20

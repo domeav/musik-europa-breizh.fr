@@ -13,7 +13,7 @@
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
         {{ range .Site.Menus.main.ByWeight }}
-          {{ if not .Page.Params.hidden }}
+          {{ if not (and .Page .Page.Params.hidden) }}
           {{ if .HasChildren }}
             <li class="navlinks-container">
               <a class="navlinks-parent" role="button" tabindex="0">{{ .Name }}</a>

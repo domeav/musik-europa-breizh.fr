@@ -2,7 +2,9 @@
 title: MEL
 omit_header_text: true
 type: page
-menus: main
+menus:
+  main:
+    parent: projets
 weight: 22
 ---
 

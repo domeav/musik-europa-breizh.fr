@@ -842,3 +842,42 @@ h4.see-also {
     overflow-x: auto;
     overflow-y: hidden;
   }
+
+/* --- Legible dropdown menu --- */
+.navbar-custom .nav .navlinks-container .navlinks-children a {
+  background: #fff;
+  color: #404040;
+  border: 1px solid #ccc;
+  border-width: 0 1px 1px;
+}
+.navbar-custom .nav .navlinks-container .navlinks-children a:hover,
+.navbar-custom .nav .navlinks-container .navlinks-children a:focus {
+  background: #0085a1;
+  color: #fff;
+}
+@media (min-width: 768px) {
+  .navbar-custom .nav .navlinks-container:hover {
+    background: #e4e4e4;
+  }
+  .navbar-custom .nav .navlinks-container:hover .navlinks-parent {
+    color: #404040;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .navbar-custom .nav .navlinks-container .navlinks-children a {
+    background: #2a2a2a;
+    color: #eee;
+    border-color: #777;
+  }
+  .navbar-custom .nav .navlinks-container .navlinks-children a:hover,
+  .navbar-custom .nav .navlinks-container .navlinks-children a:focus {
+    background: #b0e0ff;
+    color: #000;
+  }
+  .navbar-custom .nav .navlinks-container:hover {
+    background: #2a2a2a;
+  }
+  .navbar-custom .nav .navlinks-container:hover .navlinks-parent {
+    color: #fff;
+  }
+}

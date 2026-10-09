@@ -3,7 +3,9 @@ title: ouMEBpo
 bigimg: [{src: '/images/photos/AIE.webp'}]
 omit_header_text: true
 type: page
-menus: main
+menus:
+  main:
+    parent: projets
 weight: 23
 ---
 

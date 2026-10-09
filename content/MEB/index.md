@@ -3,7 +3,9 @@ title: 'MEB'
 bigimg: [{src: '/meb/01.webp'}]
 omit_header_text: true
 type: page
-menus: main
+menus:
+  main:
+    parent: projets
 weight: 20
 ---
 
