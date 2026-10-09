@@ -1,0 +1,34 @@
+{{- /* Usage : {{< concerts "upcoming" >}} ou {{< concerts "past" >}}. Données : data/concerts.yaml */ -}}
+{{- $mode := .Get 0 -}}
+{{- $today := now.Format "2006-01-02" -}}
+{{- $upcoming := slice -}}
+{{- $past := slice -}}
+{{- range site.Data.concerts.concerts -}}
+  {{- $last := (index (sort .dates "date" "desc") 0).date -}}
+  {{- if ge $last $today -}}{{- $upcoming = $upcoming | append (dict "last" $last "s" .) -}}
+  {{- else -}}{{- $past = $past | append (dict "last" $last "s" .) -}}{{- end -}}
+{{- end -}}
+{{- $list := cond (eq $mode "upcoming") (sort $upcoming "last" "asc") (sort $past "last" "desc") -}}
+{{- $year := "" -}}
+{{- range $list -}}
+  {{- $y := substr .last 0 4 -}}
+  {{- if ne $y $year -}}{{- $year = $y }}
+<h3>{{ $y }}</h3>
+  {{ end }}
+{{- $s := .s }}
+<p>
+{{- with $s.link }}<a href="{{ . }}">{{ end -}}
+<img src="{{ $s.image }}" alt="" loading="lazy">
+{{- if $s.link }}</a>{{ end }}<br/>
+{{- with $s.title }}
+{{ . }}<br/>
+{{- end }}
+{{- range sort $s.dates "date" "asc" }}
+{{- if .url }}
+<a href="{{ .url }}">{{ .text }}</a>{{ .suffix }}<br/>
+{{- else }}
+{{ .text }}{{ .suffix }}<br/>
+{{- end }}
+{{- end }}
+</p>
+{{ end -}}

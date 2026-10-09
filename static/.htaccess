@@ -1,0 +1,17 @@
+# Pages: the browser must revalidate (cheap 304 via ETag) so updates show immediately.
+<IfModule mod_headers.c>
+  <FilesMatch "\.(html|xml|json|webmanifest)$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+  <FilesMatch "^$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+  # Images and fonts rarely change under the same name.
+  <FilesMatch "\.(webp|png|jpg|jpeg|gif|svg|ico|woff2?|ttf)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+  # CSS/JS keep stable names, so revalidate them too.
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+</IfModule>

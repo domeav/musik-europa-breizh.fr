@@ -1,5 +1,6 @@
 baseURL = 'https://www.musik-europa-breizh.fr'
 languageCode = 'fr-fr'
+timeZone = 'Europe/Paris'
 title = 'Musik Europa Breizh'
 theme = ['beautifulhugo']
 DefaultContentLanguage = "fr"
